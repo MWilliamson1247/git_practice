@@ -7,6 +7,8 @@ Frenchfries
 FEELS
 Rage
 Hate
+Happiness
+Sadness
 
 OTHER
 Goblins
